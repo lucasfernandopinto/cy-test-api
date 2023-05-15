@@ -53,6 +53,7 @@ describe('GET carrinhos', () => {
     }).then((response) => {
       expect(response.status).to.equal(200);
       expect(response.body.carrinhos.length).to.equal(1)
+       expect(response.body.carrinhos[0].quantidadeTotal).to.equal(3)
     })
   })
 })
