@@ -1,6 +1,6 @@
-# Teste de API com Cypress
- 
-Olá, este projeto tem como objetivo realizar testes de API utilizando Cypress, com o foco em torno apenas de requisições do tipo GET.
-Para conseguir as requisições, utilizei o ServeRest, um projeto criado pelo Paulo Gonçalves para ajudar em estudos de testes de APIs. Disponível em: https://github.com/ServeRest/ServeRest
+# API Testing with Cypress
 
-Para rodar a API localmente, basta digitar "npx serverest@latest" no terminal.
+Hello, this project aims to perform API tests using Cypress, focusing solely on GET requests.
+To obtain the requests, I used ServeRest, a project created by Paulo Gonçalves to aid in API testing studies. Available at: https://github.com/ServeRest/ServeRest
+
+To run the API locally, simply type "npx serverest@latest" in the terminal.
